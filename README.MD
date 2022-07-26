@@ -1,5 +1,6 @@
 Requirement : pandas , TA-Lib , pymongo and other in requirement.txt
-python Anaconda3 
+
+python Anaconda3  https://www.anaconda.com/products/distribution
 
 USE BOT WITH TASK SCHEDULE EVERY n Minite
 
